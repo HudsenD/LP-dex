@@ -9,6 +9,8 @@ deployments
 .prettierignore
 yarn-error.log
 NOTES.md
+/contracts/Dex.sol
+/contracts/DexV2Old.sol
 
 #Hardhat files
 cache
